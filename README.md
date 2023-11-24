@@ -8,19 +8,16 @@ Using Map Pins to represent various location with some cool animations.
 
 <div>
 
-<img width="300px" src = "https://user-images.githubusercontent.com/42416617/190870528-75bfd059-5c82-40c5-b09d-c671a52d77f5.png" />
+<img width="300px" src = "https://github.com/shubhkk07/Crypto_tracker/blob/afcc84d81859b4aebb63cf1a54e1e801dfed4d63/CryptoCurrencyApp/Assets.xcassets/Images/cryptoS%20at%2002.09.38.png" />
 &nbsp
 &nbsp
+<img width="300px" src = "https://github.com/shubhkk07/Crypto_tracker/blob/afcc84d81859b4aebb63cf1a54e1e801dfed4d63/CryptoCurrencyApp/Assets.xcassets/Images/cryptoS%20at%2002.09.23.png" />
 &nbsp
 &nbsp
-&nbsp
-<img width="300px" src = "https://user-images.githubusercontent.com/42416617/190870552-5688763b-6bd2-4694-ac30-99767b56ba82.png" />
+<img width="300px" src = "https://github.com/shubhkk07/Crypto_tracker/blob/afcc84d81859b4aebb63cf1a54e1e801dfed4d63/CryptoCurrencyApp/Assets.xcassets/Images/CryptoS.png" />
+<br>
+<br>
+<img width="300px" src = "https://github.com/shubhkk07/Crypto_tracker/blob/afcc84d81859b4aebb63cf1a54e1e801dfed4d63/CryptoCurrencyApp/Assets.xcassets/Images/cryptoS%20at%2002.09.53.png" />
 
 </div>
-
-<br>
-&nbsp
-&nbsp
-<img width="300px" src = "https://user-images.githubusercontent.com/42416617/190870558-541b54e2-066a-41b2-aff7-5cad5068e1d1.png" />
-
 
